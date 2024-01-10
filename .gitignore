@@ -1,0 +1,7 @@
+*.pyc
+*.session
+*.session-journal
+*.pyc
+acc.txt
+t.py
+CookieGen.py

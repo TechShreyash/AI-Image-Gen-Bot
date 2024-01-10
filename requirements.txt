@@ -1,0 +1,6 @@
+pyrogram
+re_edge_gpt
+tgcrypto
+dnspython
+motor
+pyromod
